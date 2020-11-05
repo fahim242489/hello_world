@@ -2,4 +2,4 @@
 This is the first repository
 
 Hi,
-I am Md. Fahim Hasan, a amateur researcher learning data science.
+I am Md. Fahim Hasan, an amateur researcher learning data science.
